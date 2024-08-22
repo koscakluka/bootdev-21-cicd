@@ -1,5 +1,7 @@
 # Boot.dev - Course 21 CI/CD
 
+![code coverage badge](https://github.com/koscakluka/bootdev-21-cicd/actions/workflows/ci.yml/badge.svg)
+
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
 ## Local Development
